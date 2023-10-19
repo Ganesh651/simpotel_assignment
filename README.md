@@ -1,6 +1,8 @@
 # Restaurant Website
 This is the repository for a simple and stylish restaurant website. It showcases various food items and provides an interface for users to place orders. Below is a brief description of the project.
-
+# Refer to the below:
+<img src="https://res.cloudinary.com/dky69roxl/image/upload/v1697698770/Front-End_Developer_Task_page-0001_kspv2n.jpg" alt="website"/>
+<img src="https://res.cloudinary.com/dky69roxl/image/upload/v1697698775/Front-End_Developer_Task_page-0002_oc1utq.jpg" alt="website"/>
 # Technologies Used: 
 HTML 
 CSS
