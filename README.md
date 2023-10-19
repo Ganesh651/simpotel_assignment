@@ -30,9 +30,9 @@ Feel free to use this project as a template for creating your own restaurant web
 Contributions
 Contributions are always welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or a pull request.
 
-Credits
+# Credits
 This project was created by Ganesh.
 
-Contact
+# Contact
 For any inquiries or questions, please feel free to reach out at ganireddy651@gmail.com.
 
